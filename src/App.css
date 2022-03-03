@@ -1,0 +1,84 @@
+.room-detail-label{
+  width:620px;
+  height: auto;
+  margin: 20px auto 0px;
+  color:  brown;
+  position: relative;
+  font-size: x-large;
+  }
+  .group-icon{
+  font-size: 45px;
+  }
+  .room-label{
+      display: inline-block;
+      position: absolute;
+      left: 35px;
+  }
+  .room-people-label{
+      font-weight: bolder;
+  }
+  .room-container{
+  width:600px;
+  height: 185px;
+  margin: 0px auto;
+  border: 1px solid black;
+  padding: 10px;
+  }
+  .room-count-detail{
+      height: 40px;
+      border-bottom: 1px solid #d0d0d0;
+      margin:20px 0px 0px;
+      color:  #000080;
+      position: relative;
+      font-weight: bolder;
+  
+  }
+  .adults-count-detail{
+      height: 40px;
+      border-bottom: 1px solid black;
+      margin:20px 0px 0px;
+      color:  black;
+      position: relative;
+      font-weight: bolder;
+  }
+  .child-count-detail{
+      height: 40px;
+      margin:20px 0px 0px;
+      color: black;
+      position: relative;
+      font-weight: bolder;
+  }
+  .left-side-detail{
+      float: left;
+  }
+  .room-name{
+  position: absolute;
+  display: inline-block;
+  margin-left:10px;
+  top:0px
+  
+  }
+  .child-room-name{
+  position: absolute;
+  display: inline-block;
+  margin-left:10px;
+  top:0px
+  }
+  .right-side-detail{
+      /* display: inline-block; */
+      float: right;
+      position: relative;
+  }
+  .remove-icon{
+  margin-right: 20px;
+  color: red
+  }
+  .room-count{
+      display: inline-block;
+      position: absolute;
+      color: #5d5d5d;
+  }
+  .add-icon{
+      margin-left: 30px;
+      color: green
+  }
